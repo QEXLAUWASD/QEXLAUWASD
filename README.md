@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![QEXLAUWASD's GitHub stats](https://github-readme-stats.vercel.app/api?username=QEXLAUWASD&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420.83%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -60,14 +60,14 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-YAML                     46 mins             ████████░░░░░░░░░░░░░░░░░   30.60 % 
-JSON                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Markdown                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-C++                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Markdown                 1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+YAML                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+JSON                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+C++                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,5 +83,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 18:26:18 UTC
+ Last Updated on 14/04/2026 18:25:25 UTC
 <!--END_SECTION:waka-->
