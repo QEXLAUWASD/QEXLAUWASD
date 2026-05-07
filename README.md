@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![QEXLAUWASD's GitHub stats](https://github-readme-stats.vercel.app/api?username=QEXLAUWASD&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420.83%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2026
+> 🏆 14 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,13 +60,14 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   49 mins             ████████████░░░░░░░░░░░░░   47.97 % 
-Java Properties          25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-JSON                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Text                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+JSON                     4 hrs 41 mins       ████████████████░░░░░░░░░   65.39 % 
+Python                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Text                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Java Properties          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +83,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2026 19:29:20 UTC
+ Last Updated on 07/05/2026 19:30:11 UTC
 <!--END_SECTION:waka-->
