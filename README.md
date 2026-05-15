@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 [![QEXLAUWASD's GitHub stats](https://github-readme-stats.vercel.app/api?username=QEXLAUWASD&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2028%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420.83%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -33,43 +31,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-🌆 Daytime                55 commits          █████████████░░░░░░░░░░░░   52.38 % 
-🌃 Evening                29 commits          ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-🌙 Night                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   30 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Tuesday                  18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Wednesday                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Thursday                 21 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Sunday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-JSON                     4 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.54 % 
-GDScript3                2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Other                    1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Text                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 8 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -83,5 +44,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 19:40:22 UTC
+ Last Updated on 15/05/2026 19:23:24 UTC
 <!--END_SECTION:waka-->
