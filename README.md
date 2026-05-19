@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,55 +33,18 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-🌆 Daytime                55 commits          █████████████░░░░░░░░░░░░   52.38 % 
-🌃 Evening                29 commits          ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-🌙 Night                  17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   30 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Tuesday                  18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Wednesday                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Thursday                 21 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Sunday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-GDScript3                2 hrs 14 mins       ████████████░░░░░░░░░░░░░   47.16 % 
-Other                    1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   31.05 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-XML                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 46 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-CMake                    3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Hack                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18 % 
+CMake                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 18/05/2026 19:30:17 UTC
+ Last Updated on 19/05/2026 19:46:49 UTC
 <!--END_SECTION:waka-->
