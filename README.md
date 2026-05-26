@@ -60,14 +60,14 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 51 mins        █████████████████░░░░░░░░   67.57 % 
-Bash                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Lua                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-INI                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    1 hr 51 mins        ████████████████████░░░░░   80.70 % 
+Bash                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,5 +83,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2026 19:20:37 UTC
+ Last Updated on 26/05/2026 20:02:21 UTC
 <!--END_SECTION:waka-->
