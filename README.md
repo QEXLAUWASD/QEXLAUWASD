@@ -60,8 +60,7 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Lua                      11 mins             ███████████████████░░░░░░   77.79 % 
-Text                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Lua                      14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  14 mins             █████████████████████████   100.00 % 
@@ -80,5 +79,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 20:13:34 UTC
+ Last Updated on 12/06/2026 20:02:48 UTC
 <!--END_SECTION:waka-->
