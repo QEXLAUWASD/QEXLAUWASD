@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![QEXLAUWASD's GitHub stats](https://github-readme-stats.vercel.app/api?username=QEXLAUWASD&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-420.83%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -60,14 +60,14 @@ Sunday                   13 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Lua                      55 mins             ████████████░░░░░░░░░░░░░   49.84 % 
-Python                   30 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Lua                      55 mins             ██████████░░░░░░░░░░░░░░░   41.09 % 
+Python                   46 mins             █████████░░░░░░░░░░░░░░░░   34.25 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,5 +83,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2026 20:38:07 UTC
+ Last Updated on 23/06/2026 19:53:42 UTC
 <!--END_SECTION:waka-->
