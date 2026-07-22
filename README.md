@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![QEXLAUWASD's GitHub stats](https://github-readme-stats.vercel.app/api?username=QEXLAUWASD&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-435.84%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -60,14 +60,14 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Lua                      2 mins              ██████████░░░░░░░░░░░░░░░   41.58 % 
-JavaScript               1 min               ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-Other                    1 min               █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Python                   11 mins             ████████████████░░░░░░░░░   64.73 % 
+Lua                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,5 +83,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2026 19:09:46 UTC
+ Last Updated on 22/07/2026 19:03:35 UTC
 <!--END_SECTION:waka-->
