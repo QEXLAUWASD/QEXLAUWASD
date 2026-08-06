@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 [![QEXLAUWASD's GitHub stats](https://github-readme-stats.vercel.app/api?username=QEXLAUWASD&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2050%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2047%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-479.67%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -62,50 +58,50 @@ Sunday                   30 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    51 mins             ████████░░░░░░░░░░░░░░░░░   33.22 % 
-JavaScript               43 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-SSH Config               27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-JSON                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Other                    51 mins             ███████████░░░░░░░░░░░░░░   43.62 % 
+JavaScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (35.71%)
+⏱ AI Coding Time: 45 mins (38.58%)
 
-✍️ 2,520 lines written by AI, 301 lines written by hand (89.33% AI-written)
+✍️ 2,432 lines written by AI, 293 lines written by hand (89.25% AI-written)
 
-🔤 35,810,091 Input Tokens, 175,544 Output Tokens
+🔤 27,146,849 Input Tokens, 146,348 Output Tokens
 
-💵 $179.55 Estimated AI Cost This Week
+💵 $157.46 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 28 AI Prompts
+🧠 2 AI Sessions, 24 AI Prompts
 
-GPT                      2,534 lines         █████████████████████████   100.00 % 
+GPT                      2,446 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.33% of written lines came from AI
-📝 Concise Prompter — average 323 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 14.57% of changed lines were hand-edited
+🤖 AI-Driven — 89.25% of written lines came from AI
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 14.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
 CMake                    3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 Hack                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 05/08/2026 19:21:08 UTC
+ Last Updated on 06/08/2026 23:53:18 UTC
 <!--END_SECTION:waka-->
