@@ -62,36 +62,17 @@ Sunday                   30 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    51 mins             ███████████░░░░░░░░░░░░░░   43.62 % 
-JavaScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    51 mins             ██████████████████░░░░░░░   71.02 % 
+JSON                     20 mins             ███████░░░░░░░░░░░░░░░░░░   28.98 % 
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (38.58%)
-
-✍️ 2,432 lines written by AI, 293 lines written by hand (89.25% AI-written)
-
-🔤 27,146,849 Input Tokens, 146,348 Output Tokens
-
-💵 $157.46 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 24 AI Prompts
-
-GPT                      2,446 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 89.25% of written lines came from AI
-📝 Concise Prompter — average 203 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 14.77% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -107,5 +88,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 18:44:56 UTC
+ Last Updated on 08/08/2026 18:27:28 UTC
 <!--END_SECTION:waka-->
