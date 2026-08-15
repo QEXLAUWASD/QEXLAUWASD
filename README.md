@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 [![QEXLAUWASD's GitHub stats](https://github-readme-stats.vercel.app/api?username=QEXLAUWASD&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2019%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-479.67%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -62,16 +62,38 @@ Sunday                   30 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     16 mins             ██████████░░░░░░░░░░░░░░░   39.09 % 
+Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+JavaScript               10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             29 mins             ██████████████████░░░░░░░   71.60 % 
+VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   28.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 31 mins (76.56%)
+
+✍️ 476 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 292,407 Input Tokens, 46,566 Output Tokens
+
+💵 $104.30 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 9 AI Prompts
+
+GPT                      476 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 197 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +109,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 18:44:06 UTC
+ Last Updated on 15/08/2026 18:19:24 UTC
 <!--END_SECTION:waka-->
