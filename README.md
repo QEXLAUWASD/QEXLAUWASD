@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 [![QEXLAUWASD's GitHub stats](https://github-readme-stats.vercel.app/api?username=QEXLAUWASD&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-479.67%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -62,36 +62,36 @@ Sunday                   30 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     16 mins             ██████████░░░░░░░░░░░░░░░   39.09 % 
-Markdown                 12 mins             ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-JavaScript               10 mins             ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JavaScript               21 mins             █████████░░░░░░░░░░░░░░░░   34.35 % 
+JSON                     16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+HTML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 Editors: 
-Codex Vscode             29 mins             ██████████████████░░░░░░░   71.60 % 
-VS Code                  11 mins             ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Codex Vscode             49 mins             ████████████████████░░░░░   78.03 % 
+VS Code                  13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (76.56%)
+⏱ AI Coding Time: 53 mins (84.45%)
 
-✍️ 476 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 641 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 292,407 Input Tokens, 46,566 Output Tokens
+🔤 399,010 Input Tokens, 63,008 Output Tokens
 
-💵 $104.30 Estimated AI Cost This Week
+💵 $105.22 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
-GPT                      476 lines           █████████████████████████   100.00 % 
+GPT                      641 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 197 characters per prompt
+📝 Concise Prompter — average 171 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -109,5 +109,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 18:28:47 UTC
+ Last Updated on 18/08/2026 18:28:03 UTC
 <!--END_SECTION:waka-->
