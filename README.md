@@ -62,12 +62,10 @@ Sunday                   14 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Text                     1 hr 20 mins        █████████████████████░░░░   84.80 % 
-Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Text                     1 hr 20 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   98.45 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,5 +87,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 20:00:46 UTC
+ Last Updated on 13/09/2026 20:07:43 UTC
 <!--END_SECTION:waka-->
