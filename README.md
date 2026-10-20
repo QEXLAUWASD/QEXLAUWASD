@@ -62,22 +62,22 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    16 hrs 22 mins      ███████████████████████░░   92.50 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    11 hrs 38 mins      ███████████████████████░░   92.24 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Paseo                    17 hrs 30 mins      █████████████████████████   98.96 % 
-Codex Vscode             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Paseo                    12 hrs 26 mins      █████████████████████████   98.54 % 
+Codex Vscode             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 WorkBuddy                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (1.24%)
+⏱ AI Coding Time: 13 mins (1.75%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -109,5 +109,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 21:57:42 UTC
+ Last Updated on 20/10/2026 21:08:46 UTC
 <!--END_SECTION:waka-->
