@@ -62,14 +62,14 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    6 hrs 21 mins       █████████████████████░░░░   82.16 % 
-Groff                    56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Other                    2 hrs 56 mins       ██████████████████░░░░░░░   72.33 % 
+Groff                    56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Paseo                    7 hrs 43 mins       █████████████████████████   100.00 % 
+Paseo                    4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,5 +91,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 22:07:50 UTC
+ Last Updated on 29/10/2026 22:19:44 UTC
 <!--END_SECTION:waka-->
